@@ -17,6 +17,9 @@ Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de l
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPITTEcCZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+Síguenos:
 
-
+  - https://www.facebook.com/la22mag
+  - https://twitter.com/la22magazine
+  - https://www.instagram.com/la22magazine/
 
