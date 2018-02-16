@@ -4,9 +4,9 @@ Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de l
 
 Síguenos:
 
-  - https://www.facebook.com/la22mag
-  - https://twitter.com/la22magazine
-  - https://www.instagram.com/la22magazine/
+  - [Facebook](https://www.facebook.com/la22mag)
+  - [Twitter](https://twitter.com/la22magazine)
+  - [Instagram](https://www.instagram.com/la22magazine/)
 
 
 
