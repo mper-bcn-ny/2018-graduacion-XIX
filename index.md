@@ -2,6 +2,15 @@
 
 Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de la XIXa edición del Máster en Periodismo - realizada por los alumnos de la XXa edición. La idea que nos guía es la de construir un medio sin sítio propio, un medio que sólo publica su contenido en redes sociales - un concepto desarrollado por Francesco Marconi en su ensayo sobre [Homeless Media](https://medium.com/thoughts-on-media/the-rise-of-homeless-media-97e031c8b319). Publicar periodismo en medios que en sí no tengan nada de periodísticos es un reto nuevo para todo periodista - con años de experiencia tanto como los que recién comienzan su carrera.
 
+Síguenos:
+
+  - https://www.facebook.com/la22mag
+  - https://twitter.com/la22magazine
+  - https://www.instagram.com/la22magazine/
+
+
+
+
 ## Facebook Live
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548159591968753%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
@@ -16,10 +25,4 @@ Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPITTEcCZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-Síguenos:
-
-  - https://www.facebook.com/la22mag
-  - https://twitter.com/la22magazine
-  - https://www.instagram.com/la22magazine/
 
