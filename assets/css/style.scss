@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 
-span#logo { display: none; };
+#logo { display: none; };
 
 a.fork  { display: none; };
 
-#banner { background: #8b8879; border: 0px; }
+#banner { display: none; background: #8b8879; border: 0px; }
 
 
 
