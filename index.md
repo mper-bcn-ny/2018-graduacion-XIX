@@ -12,4 +12,11 @@ Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de l
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## Cámaras fijas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPITTEcCZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
 
