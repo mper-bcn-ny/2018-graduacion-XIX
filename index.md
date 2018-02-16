@@ -1,6 +1,6 @@
 ## #bcn_nyXIX 
 
-Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de la XIXa edición del Máster en Periodismo - realizada por los alumnos de la XXa edición. La idea que nos guía es la de construir un medio sin sítio propio, un medio que sólo publica su contenido en redes socials - un concepto desarrollado por Francesco Marconi en su ensayo sobre [Homeless Media](https://medium.com/thoughts-on-media/the-rise-of-homeless-media-97e031c8b319). Publicar periodismo en medios que en sí no tengan nada de periodísticos es un reto nuevo para todo periodista - con años de experiencia tanto como los que recién comienzan su carrera.
+Aquí reunimos elementos de la cobertura en directo del Acto de Graduación de la XIXa edición del Máster en Periodismo - realizada por los alumnos de la XXa edición. La idea que nos guía es la de construir un medio sin sítio propio, un medio que sólo publica su contenido en redes sociales - un concepto desarrollado por Francesco Marconi en su ensayo sobre [Homeless Media](https://medium.com/thoughts-on-media/the-rise-of-homeless-media-97e031c8b319). Publicar periodismo en medios que en sí no tengan nada de periodísticos es un reto nuevo para todo periodista - con años de experiencia tanto como los que recién comienzan su carrera.
 
 ## Facebook Live
 
