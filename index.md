@@ -36,7 +36,7 @@ Síguenos:
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548292651955447%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-## Entrevista con Javier Ruíz
+## Entrevista con Javier Ruiz
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="es" dir="ltr">Graduación 👩🏻‍🎓 <a href="https://twitter.com/hashtag/bcn_nyXIX?src=hash&amp;ref_src=twsrc%5Etfw">#bcn_nyXIX</a> <a href="https://twitter.com/Ruiz_Noticias?ref_src=twsrc%5Etfw">@ruiz_noticias</a>  <a href="https://t.co/FRZiVehddP">https://t.co/FRZiVehddP</a></p>&mdash; La22 (@La22Magazine) <a href="https://twitter.com/La22Magazine/status/964571494977363969?ref_src=twsrc%5Etfw">16. Februar 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
