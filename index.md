@@ -26,3 +26,14 @@ Síguenos:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPITTEcCZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+## Entrevista con Jazmín Román
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548283495289696%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+
+## Entrevista con Santiago Castro
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548292651955447%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
