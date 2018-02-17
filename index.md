@@ -43,3 +43,9 @@ Síguenos:
 <blockquote class="twitter-tweet" data-lang="de"><p lang="es" dir="ltr">Graduación 👩🏻‍🎓 <a href="https://twitter.com/hashtag/bcn_nyXIX?src=hash&amp;ref_src=twsrc%5Etfw">#bcn_nyXIX</a> <a href="https://twitter.com/Ruiz_Noticias?ref_src=twsrc%5Etfw">@ruiz_noticias</a>  <a href="https://t.co/FRZiVehddP">https://t.co/FRZiVehddP</a></p>&mdash; La22 (@La22Magazine) <a href="https://twitter.com/La22Magazine/status/964571494977363969?ref_src=twsrc%5Etfw">16. Februar 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Los Tweets #bcn_nyXIX
+
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/bcn_nyXIX" data-widget-id="964794499896659973">#bcn_nyXIX-Tweets</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
+
