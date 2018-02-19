@@ -72,8 +72,7 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 
 Tuvimos audiencia - aunque los números también muestran que no todo el mundo se pasa 65 minutos viendo una graduación. 
 
-<iframe src="//slides.com/mvtango/deck-6/embed" width="100%" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<iframe src="//slides.com/mvtango/bcn_nyxix/embed" width="576" height="490" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 ## Las perspectivas de "medios sin sítio"
