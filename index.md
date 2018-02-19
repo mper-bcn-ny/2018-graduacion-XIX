@@ -55,7 +55,7 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 
 ## Minuto-a-Minuto en Instagram
 
-(Almacenados en un video).
+(Almacenado en un video).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c007jeeEuCY?rel=0&amp;start=7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
