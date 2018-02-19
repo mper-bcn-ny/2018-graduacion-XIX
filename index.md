@@ -84,6 +84,8 @@ Pero no podemos cederles el espacio público, en interés propio y en el interé
 > Google and Facebook are taking the vast majority of ad revenue, and paying content creators far too little for the value they deliver to users. This puts high-quality creators at a financial disadvantage, and favors publishers of cheap media: fake news, propaganda and conspiracy theories, quickly re-written stories with sensationalistic spin, shady off-shore content farms, algorithmically generated content, and pirated videos.
 > This economic impasse poses a deep threat to society in a time when political and cultural polarization are deeper than ever, fracturing our shared sense of reality. 
 
+No es posible darles la espalda a los medios sociales. Tenemos que usarlos - y ser mucho mejores que los antiperiodistas. Y al mismo tiempo no dejar de insinstir de que ellos tienen que cambiar, que tienen que asumir las responsablidades que vienen con el gran poder y la gran riqueza que han adquirido por los servicios que no usamos todos los días. 
+
 [mv](https://twitter.com/mvtango)
 
 
