@@ -70,7 +70,7 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 
 ## Las estadísticas
 
-Tuvimos audiencia - aunque los números también muestran que no todo el mundo se pasa 65
+Tuvimos audiencia - aunque los números también muestran que no todo el mundo se pasa 65 minutos viendo una graduación. 
 
 <iframe src="//slides.com/mvtango/deck-6/embed" width="100%" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
