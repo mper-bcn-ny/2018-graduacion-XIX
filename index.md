@@ -42,7 +42,12 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/bcn_nyXIX" data-widget-id="964794499896659973">#bcn_nyXIX-Tweets</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-          
+
+## Las estadísticas
+
+Tuvimos audiencia - aunque los números también muestran que no todo el mundo se pasa 65
+
+<iframe src="//slides.com/mvtango/deck-6/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Las perspectivas de "medios sin sítio"
 
