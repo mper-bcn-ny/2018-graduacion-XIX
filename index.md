@@ -6,12 +6,13 @@ Aquí reunimos elementos de la cobertura en directo del acto de graduación de l
 Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twitter.com/la22magazine) y [Instagram](https://www.instagram.com/la22magazine/).
 
 
-
+---
 
 ## Facebook Live
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548159591968753%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+---
 
 ## Periscope
 
@@ -19,39 +20,61 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+---
+
 ## Cámaras fijas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPITTEcCZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
 
 ## Entrevista con Jazmín Román
 
+(Con problemas de sonido, reproducida como documentación aquí)
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548283495289696%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+---
 
 ## Entrevista con Santiago Castro
 
+(Con problemas de sonido, reproducida como documentación aquí)
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548292651955447%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+---
+
 ## Entrevista con Javier Ruiz
+
+(Cortada por el medio, reproducida como documentación aquí)
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="es" dir="ltr">Graduación 👩🏻‍🎓 <a href="https://twitter.com/hashtag/bcn_nyXIX?src=hash&amp;ref_src=twsrc%5Etfw">#bcn_nyXIX</a> <a href="https://twitter.com/Ruiz_Noticias?ref_src=twsrc%5Etfw">@ruiz_noticias</a>  <a href="https://t.co/FRZiVehddP">https://t.co/FRZiVehddP</a></p>&mdash; La22 (@La22Magazine) <a href="https://twitter.com/La22Magazine/status/964571494977363969?ref_src=twsrc%5Etfw">16. Februar 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
+
 ## Minuto-a-Minuto en Instagram
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/c007jeeEuCY?t=7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+(Almacenados en un video).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c007jeeEuCY?rel=0&amp;start=7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
 
 ## Los Tweets
 
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/bcn_nyXIX" data-widget-id="964794499896659973">#bcn_nyXIX-Tweets</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
+---
+
 ## Las estadísticas
 
 Tuvimos audiencia - aunque los números también muestran que no todo el mundo se pasa 65
 
-<iframe src="//slides.com/mvtango/deck-6/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/mvtango/deck-6/embed" width="100%" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
 
 ## Las perspectivas de "medios sin sítio"
 
