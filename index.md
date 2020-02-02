@@ -32,6 +32,10 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 
 (Con problemas de sonido, reproducida como documentación aquí)
 
+<a target="_blank" href="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548283495289696%2F&show_text=1&width=560">
+<img src="https://user-images.githubusercontent.com/1538368/73617467-4bed6100-461f-11ea-8135-25de515ff773.png">
+</a>
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548283495289696%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ---
@@ -39,7 +43,9 @@ Síguenos en [Facebook](https://www.facebook.com/la22mag), [Twitter](https://twi
 ## Entrevista con Santiago Castro
 
 (Con problemas de sonido, reproducida como documentación aquí)
-
+<a href="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548292651955447%2F&show_text=1&width=560">
+<img src="https://user-images.githubusercontent.com/1538368/73617482-7c34ff80-461f-11ea-861e-0d75f370228b.png">
+</a>
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fla22mag%2Fvideos%2F1548292651955447%2F&show_text=1&width=560" width="560" height="381" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ---
